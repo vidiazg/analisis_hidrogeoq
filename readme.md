@@ -174,9 +174,11 @@ Al igual que las muestras del Grupo 2, este grupo de muestras pertenecen a la fa
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G4.png)
 
-En el grupo 5 se encuentran aguas, donde la fase que domina es la Bicarbonatada sódica correpondiente a aguas maduras, donde ocurre intercambio iónico, donde las aguas subterráneas se encuentran a gran profundidad.
+En el grupo 4 se encuentran aguas, donde la fase que domina es la Bicarbonatada sódica correpondiente a aguas maduras, donde ocurre intercambio iónico, donde las aguas subterráneas se encuentran a gran profundidad.
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G5.png)
+
+Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatada cálcica, donde el valor de Calcio y Bicarbonatos es superior a los 12mg/L y 100 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
 ## Bibliografía
 
