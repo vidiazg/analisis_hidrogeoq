@@ -184,7 +184,7 @@ Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatad
 
 Este diagrama grafica la concentración de los sólidos disueltos y la relación de Na/(Na+K), para cationes y para aniones Cl/(Cl+HCO3) En este diagrama es posible identificar tres procesos ocurrentes en la dinámica del agua subterránea mediante su química, siendo: el proceso de precipitación, Interacción agua-roca, y Evaporación – cristalización. (Bustamante, 2017)
 
-![Diagrama de Stiff Grupo 1](figuras/Stiff_G5.png)
+![Diagrama de Stiff Grupo 1](figuras/Gibbs.png)
 
 ## Bibliografía
 
