@@ -78,9 +78,9 @@ A continuación, se presenta la localización de las muestras de agua subterrán
 Inicialmente, se revisó la completitud de los datos de los parámetros en las 43 muestras, donde se identificó que la información está completa en todos los parámetros, salvo en el parámetro de temperatura, donde se utilizó el valor de temperatura promedio para las muestras que no contaban con este dato.
 
 Posterior a esto se calculó el valor de error analítico del balance iónico, usando la siguiente ecuación:
-<img src="https://render.githubusercontent.com/render/math?math=\%Error\_analítico = \frac{\sum aniones - \sum cationes}{\sum aniones + \sum cationes} * 100">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\sum aniones - \sum cationes}{\sum aniones + \sum cationes} * 100">
 
-$\%Error\_analítico = \frac{\sum aniones - \sum cationes}{\sum aniones + \sum cationes} * 100$
+
 
 Para esto se calculó la concentración de cada catión y anión en miliequivalentes.
 De acuerdo con (Malagón et al, 2021) un error analítico del balance iónico menor o igual al +/- el 10% se considera aceptable. 
