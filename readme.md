@@ -146,6 +146,8 @@ El AAJ se realizó a partir de la libreria FactoMineR del programa estadístico 
 
 ![Dendograma](figuras/den.png)
 
+De acuerdo con la firgura anterior, se identifican 5 grupos de clusters con comportamientos similares, a partir de lo anterior se realizó el análisis gráfico de la química del agua mediante los diagramas de Pipper, Stiff, Gibbs, y Schoeller
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
