@@ -174,6 +174,10 @@ Al igual que las muestras del Grupo 2, este grupo de muestras pertenecen a la fa
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G4.png)
 
+En el grupo 5 se encuentran aguas, donde la fase que domina es la Bicarbonatada sódica correpondiente a aguas maduras, donde ocurre intercambio iónico, donde las aguas subterráneas se encuentran a gran profundidad.
+
+![Diagrama de Stiff Grupo 1](figuras/Stiff_G5.png)
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
