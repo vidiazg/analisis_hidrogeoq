@@ -86,7 +86,7 @@ Posterior a esto se calculó el valor de error analítico del balance iónico, u
 
 Para esto se calculó la concentración de cada catión y anión en miliequivalentes.
 De acuerdo con (Malagón et al, 2021) un error analítico del balance iónico menor o igual al +/- el 10% se considera aceptable. 
-Teniendo en cuenta lo anterior, solamente . La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
+Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análitico del balance iónico era superior al 10%, por lo tanto, solamente se realizarán los análisis estadísticos para 33 muestras. La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
 
 ## Bibliografía
 
