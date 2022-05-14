@@ -144,6 +144,7 @@ El segundo eje (PCA2) separa las muestras de arriba a abajo, donde en el lado su
 
 El AAJ se realizó a partir de la libreria FactoMineR del programa estadístico R, con los resultados obtenidos del análisis de APC, donde se generó una clasificación de las muestras utilizadas en grupos de acuerdo con el gráfico dendograma, que se muestra a contiuación.
 
+![Dendograma](figuras/den.png)
 
 ## Bibliografía
 
