@@ -202,6 +202,10 @@ A manera de ejemplo se busco realizar un ejercicio de interpolación del paráme
 
 De acuerdo con el resultado obtenido, se observa que los valores más altos de Sólidos Disueltos Totales se encuentran en cercanías al río Magdalena, con valores superiores a los 600 mg/L. Los valores más bajos se encuentran al sur del municipio donde limita con Barrancabermeja.
 
+## Conclusiones
+
+* En este estudio con base en la información com pilada y analizada se identificaron los posibles procesos geoquímicos que determinan la compo sición química del agua subterránea ubicada en el SAVMM: Recarga- infiltración de agua meteórica, Disolución - interacción del agua con silicatos y carbonatos y Alteración Antropogénica – contami nación por el desarrollo de actividades industriales que se realizan en la región
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
