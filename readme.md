@@ -180,6 +180,12 @@ En el grupo 4 se encuentran aguas, donde la fase que domina es la Bicarbonatada 
 
 Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatada cálcica, donde el valor de Calcio y Bicarbonatos es superior a los 12mg/L y 100 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
+#### Diagrama de Gibbs
+
+Este diagrama grafica la concentración de los sólidos disueltos y la relación de Na/(Na+K), para cationes y para aniones Cl/(Cl+HCO3) En este diagrama es posible identificar tres procesos ocurrentes en la dinámica del agua subterránea mediante su química, siendo: el proceso de precipitación, Interacción agua-roca, y Evaporación – cristalización. (Bustamante, 2017)
+
+![Diagrama de Stiff Grupo 1](figuras/Stiff_G5.png)
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
