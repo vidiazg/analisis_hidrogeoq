@@ -96,6 +96,10 @@ Teniendo en cuenta lo anterior, se eliminaron 12 muestras donde el error análit
 
 Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron las medidas de tendencia central y dispersión, para cada parámetro monitoreado, como se muestra en la tabla a continuación
 
+Tabla 1. Estadística descriptiva de las 31 muestras objeto de análisis (las concentraciones de los iones analizados, así como los SDT 
+se expresan en mg/L, el pH en sus unidades y la CE en µS/cm).
+
+
 |         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca<sup>2+</sup>|     Na<sup>+</sup>|      K<sup>+</sup>|    Fe<sup>2+</sup>|    HCO<sub>3</sub><sup>-</sup>|     Cl<sup>-</sup>|   SO<sub>4</sub><sup>2</sup>|    NO<sub>3</sub><sup>-</sup>|     NO<sub>2</sub><sup>-</sup>|      SDT|      SST|     SSV|       ST|
 |:--------|--------:|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------:|-------:|-------:|-------:|-------:|--------:|--------:|-------:|--------:|
 |Min.     |   4.1400|   3.0000| 27.5900|  4.1200|  0.5000|  0.5000|  0.6000|  0.1300|  0.0500|   0.0000|  0.1000|  0.0500|  0.0500|  0.0500|  19.0000|   2.5000|  2.5000|  27.0000|
@@ -111,6 +115,8 @@ Una vez realizada la selección de las muestras, por medio del cálculo del erro
 |Kurtosis |  -0.8963|   3.4215|  7.5749|  0.1403| -1.0473|  8.0211|  5.1530| -1.0370| -0.2548|   1.3157|  7.9583| 18.2331| 14.4358| -2.0596|  -0.7051|  19.3935|  6.3969|  -0.4370|
 |NA's     |   0.0000|   0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|   0.0000|  0.0000|  0.0000|  0.0000|  0.0000|   0.0000|   0.0000|  0.0000|   0.0000|
 |n        |  31.0000|  31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000|  31.0000| 31.0000| 31.0000| 31.0000| 31.0000|  31.0000|  31.0000| 31.0000|  31.0000|
+
+
 
 ## Bibliografía
 
