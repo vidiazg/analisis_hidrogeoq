@@ -152,6 +152,8 @@ De acuerdo con la figura anterior, se identifican 5 grupos de clusters con compo
 
 El análisis de la información hidrogeoquímica del agua subterránea se realizó mediante los diagramas de Piper, Stiff,  Gibbs, y Schoeller, por medio de la librería WQChartPy del lenguaje de programación Python.
 
+#### Diagrama de Pipper
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
