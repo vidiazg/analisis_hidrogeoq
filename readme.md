@@ -13,13 +13,11 @@ Materia: "Hidrogeología Ambiental"
 En este documento se presenta un análisis multivariado del agua subterránea en la zona del municipio de Puerto Wilches, con el objetivo de identificar la composición química del recurso hídrico subterráneo del Sistema Acuífero localizado en este municipio.
 Para lo anterior, se realizó la compilación y análisis de 43 muestras con datos de calidad de agua subterránea localizadas en la zona de interés, mediante el uso de estadística descriptiva, revisión de la calidad de los datos (balance iónico), análisis de componentes principales, agrupamiento jerárquico (dendograma), y generación de diagramas de Pipper, Stiff, Gibbs y Schoeller.
 
-De acuerdo con el análisis del diagrama de Piper se observó que. 
+De acuerdo con el análisis del diagrama de Piper se observó que la fase hidrogeoquimica dominante corresponde a la bicarbonatada cálcica, seguida de aguas bicarbonatada sódica, lo cual indica que el agua subterránea presente en el municipio de Puerto Wilches es joven, recién inflitrada, donde dominan las reacciones de precipitación - disolución.
 
-Con el ACP, se determinaron tres componentes principales que representan el 59.4% de la variabilidad de los datos y con el AAJ se obtuvieron 6 grupos que representan las 140 caracterizaciones fisicoquímicas. 
+Con el ACP, se determinaron tres componentes principales que representan el 55% de la variabilidad de los datos y con el AAJ se obtuvieron 5 grupos que representan las similitudes fisicoquímicas en las muestras de interés.
 
-Se identificaron XXX procesos geoquímicos principales que determinan la química del agua subterránea en Puerto Wilches: 1) Recarga - infiltración de agua meteórica, 2) Disolución - interacción del agua con silicatos y carbonatos 3) Alteración Antropogénica – contaminación por el desarrollo de actividades industriales realizadas en el área de estudio.
-
-En cuanto al comportamiento espacial, se generaron las isolineas del parámetro de sólidos disueltos totales SDT, donde XXXXXXX
+En cuanto al comportamiento espacial, se generaron las isolineas del parámetro de sólidos disueltos totales SDT, donde los resultados obtenidos no señalan un comportamiento espacial que pueda ser interpretado
 
 Palabras clave: Hidrogeoquímica, Calidad de agua, Puerto Wilches, análisis de componentes principales.
 
