@@ -126,6 +126,8 @@ El ACP se realizó utilizando la libreria Factoextra del programa estadístico R
 
 El uso de esta libreria garantizó que la distribución de los datos tuviera un comportamiento normal, donde para poder identificar patrones de las muestras analizadas, se utilizaron las siguientes representaciones gráficas:
 
+![% Potcentaje de varianza en los Componentes Principales](figuras/g1.png)
+
 Inicialmente se generá la figura anterior, la cual representa el porcentaje de varianza que tiene cada componente principal, para este estudio se tomaron los % superiores al 10%, es decir hasta el componentes PCA4.
 
 
