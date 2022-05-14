@@ -152,7 +152,10 @@ De acuerdo con la figura anterior, se identifican 5 grupos de clusters con compo
 
 El análisis de la información hidrogeoquímica del agua subterránea se realizó mediante los diagramas de Piper, Stiff,  Gibbs, y Schoeller, por medio de la librería WQChartPy del lenguaje de programación Python.
 
-#### Diagrama de Pipper
+#### Diagrama de Piper
+
+![Diagrama de Piper](figuras/piper.png)
+
 
 ## Bibliografía
 
