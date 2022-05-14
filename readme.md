@@ -96,7 +96,7 @@ Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análit
 
 Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron las medidas de tendencia central y dispersión, para cada parámetro monitoreado, como se muestra en la tabla a continuación
 
-|         |       CE|        P|       T|      pH|    Mg.2|    Ca.2|     Na.|      K.|    Fe2.|    HCO3.|     Cl.|   SO4.2|    NO3.|    NO2.|      SDT|      SST|     SSV|       ST|
+|         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca.2|     Na.|      K.|    Fe2.|    HCO3.|     Cl.|   SO4.2|    NO3.|    NO2.|      SDT|      SST|     SSV|       ST|
 |:--------|--------:|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------:|-------:|-------:|-------:|-------:|--------:|--------:|-------:|--------:|
 |Min.     |   4.1400|   3.0000| 27.5900|  4.1200|  0.5000|  0.5000|  0.6000|  0.1300|  0.0500|   0.0000|  0.1000|  0.0500|  0.0500|  0.0500|  19.0000|   2.5000|  2.5000|  27.0000|
 |1st Qu.  |  73.7000|  10.5000| 28.6600|  6.0900|  2.0000|  6.0000|  4.8500|  1.5560|  0.1000|  25.0000|  0.3000|  0.3000|  0.0750|  0.0500|  78.5000|   2.5000|  2.5000|  99.5000|
