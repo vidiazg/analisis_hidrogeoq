@@ -134,7 +134,11 @@ Luego se genera la siguiente gráfica donde se representa el plano factorial con
 
 ![Trazado de los parámetros en el círculo de correlaciones respecto a los componentes principales (dimensiones) 1 y 2](figuras/g3.png)
 
+En la figura anterior, del plano factorial conformado por los componentes 1 y 2, se observa que todas las correlaciones son positivas pues el sentido de las flechas es igual en todos los parámetros. 
 
+El primer eje (PCA1) con una varianza del 42 %, se caracteriza por pesos positivos altos de Ca<sup>2+</sup>, Na<sup>+</sup>, Mg<sup>2+</sup>, K<sup>+</sup> y HCO<sub>3</sub><sup>-</sup>. Este componente separa las muestras de izquierda a derecha, donde en el lado izquierdo están las muestras de agua con menor concentración de iones y al lado derecho las muestras con mayores concentraciones de iones. De acuerdo con lo anterior, las concetraciones menores corresponden a los parámetros Nitratos y Cloruros. lo cual podría señalar que son aguas jovenes.
+
+El segundo eje (PCA2) separa las muestras de arriba a abajo, donde en el lado superior están las muestras de agua con mayor concentración de iones y al lado inferior las muestras con menores concentraciones de iones. De acuerdo con lo anterior, las concetraciones menores corresponden a los parámetros Sodio y Hierro.
 
 ## Bibliografía
 
