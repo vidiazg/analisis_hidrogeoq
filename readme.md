@@ -164,19 +164,19 @@ De acuerdo con el driagrama de Piper, se observa que la fase hidrogeoquimica dom
 
 Para las muestras del Grupo 1, se puede concluir que las aguas que dominan corresponden a la fase Clorurada Sódica, lo cual corresponde con los valores de concentración, donde el valor de Sodio y Cloruros es superior a los 20mg/L. Es preciso aclarar que a este grupo solo pertenece la muestra M-33430, que se caracteriza por tener un valor de conductividad mayor al resto de las muestras y un pH de 4, inidicando que son aguas ácidas viejas.
 
-![Diagrama de Stiff Grupo 1](figuras/Stiff_G2.png)
+![Diagrama de Stiff Grupo 2](figuras/Stiff_G2.png)
 
 En cuanto a las muestras del Grupo 2, se puede concluir que las aguas que dominan corresponden a la fase Bicarbonatada cálcica, lo cual corresponde con los valores de concentración, donde el valor de Calcio y Bicarbonatos es superior a los 10mg/L y 20 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes, y teniendo en cuenta que su pH es menor a 7, también indica que las muestras de este grupo corresponde a dicha fase hidrgeoquímica.
 
-![Diagrama de Stiff Grupo 1](figuras/Stiff_G3.png)
+![Diagrama de Stiff Grupo 3](figuras/Stiff_G3.png)
 
 Al igual que las muestras del Grupo 2, este grupo de muestras pertenecen a la fase Bicarbonatada cálcica, en este caso los valores de concentración del Calcio y de los Bicarbonatos es superior a los 60mg/L y 200 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
-![Diagrama de Stiff Grupo 1](figuras/Stiff_G4.png)
+![Diagrama de Stiff Grupo 4](figuras/Stiff_G4.png)
 
 En el grupo 4 se encuentran aguas, donde la fase que domina es la Bicarbonatada sódica correpondiente a aguas maduras, donde ocurre intercambio iónico, donde las aguas subterráneas se encuentran a gran profundidad.
 
-![Diagrama de Stiff Grupo 1](figuras/Stiff_G5.png)
+![Diagrama de Stiff Grupo 5](figuras/Stiff_G5.png)
 
 Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatada cálcica, donde el valor de Calcio y Bicarbonatos es superior a los 12mg/L y 100 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
@@ -184,7 +184,11 @@ Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatad
 
 Este diagrama grafica la concentración de los sólidos disueltos y la relación de Na/(Na+K), para cationes y para aniones Cl/(Cl+HCO3) En este diagrama es posible identificar tres procesos ocurrentes en la dinámica del agua subterránea mediante su química, siendo: el proceso de precipitación, Interacción agua-roca, y Evaporación – cristalización. (Bustamante, 2017)
 
-![Diagrama de Stiff Grupo 1](figuras/Gibbs.png)
+![Diagrama de Gibbs](figuras/Gibbs.png)
+
+En la parte izquierda de la figura anterior se observa que la presencia de iones calcio y sodio para la zona de estudio proviene principalmente del proceso de interacción agua – roca, donde hacen mayor presencia las muestras del grupo 2 y del grupo 3 donde su concentración en STD se encuentra entre 10 y 290 mg/L. 
+
+En la parte derecha de la figura donde se presenta la relación de aniones, se observa que la presencia de cloruroa y bicarbonatos esta relacionado con la precipitación (grupo 2) y con la interacción agua - roca.
 
 ## Bibliografía
 
