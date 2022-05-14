@@ -166,6 +166,10 @@ Para las muestras del Grupo 1, se puede concluir que las aguas que dominan corre
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G2.png)
 
+En cuanto a las muestras del Grupo 2, se puede concluir que las aguas que dominan corresponden a la fase Bicarbonatada cálcica, lo cual corresponde con los valores de concentración, donde el valor de Calcio y Bicarbonatos es superior a los 10mg/L y 20 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes, y teniendo en cuenta que su pH es menor a 7, también indica que las muestras de este grupo corresponde a dicha fase hidrgeoquímica.
+
+![Diagrama de Stiff Grupo 1](figuras/Stiff_G3.png)
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
