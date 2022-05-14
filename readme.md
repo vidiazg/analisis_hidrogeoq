@@ -17,7 +17,7 @@ De acuerdo con el análisis del diagrama de Piper se observó que la fase hidrog
 
 Con el ACP, se determinaron tres componentes principales que representan el 55% de la variabilidad de los datos y con el AAJ se obtuvieron 5 grupos que representan las similitudes fisicoquímicas en las muestras de interés.
 
-En cuanto al comportamiento espacial, se generaron las isolineas del parámetro de sólidos disueltos totales SDT, donde los resultados obtenidos no señalan un comportamiento espacial que pueda ser interpretado
+En cuanto al comportamiento espacial, se generaron las isolineas del parámetro de sólidos disueltos totales SDT, donde los resultados obtenidos muestran que los valores más altos de SDT se encuentran próximos a la orilla del rpio Magdalena. 
 
 Palabras clave: Hidrogeoquímica, Calidad de agua, Puerto Wilches, análisis de componentes principales.
 
@@ -193,6 +193,12 @@ En la parte derecha de la figura donde se presenta la relación de aniones, se o
 ![Diagrama de Schoeller](figuras/Sch.png)
 
 De acuerdo con la figura anterior, se puede observar las concentraciones de aniones y cationes en los grupos de muestras, donde se puede concluir que las concentraciones más altas corresponden al cation Calcio y al anion Bicarbonato
+
+#### Isolineas
+
+A manera de ejemplo se busco realizar un ejercicio de interpolación del parámetro de Sólidos Disueltos Totales, utilizando el método de IDW, obteniendo el siguiente resultado
+
+![Mapa Interpolación IDW Sólidos Supendidos Totales](figuras/interpolacion.png)
 
 ## Bibliografía
 
