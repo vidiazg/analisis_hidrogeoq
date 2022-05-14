@@ -120,6 +120,10 @@ composición química del agua subterránea del municipio de Puerto Wilches est�
 
 Así mismo, a partir de la estadística descriptiva señalada en la Tabla 1, se puede identificar que la variabilidad entre los valores máximos y mínimos de los cationes y aniones señalan una alta heterogeneidad química del agua subterránea como lo cual está relacionado con los procesos geoquímicos, que ocurren en el área de estudio.
 
+### Análisis de componentes principales ACP
+
+El ACP se realizó utilizando la libreria Factoextra del programa estadístico R, apartir de los datos de 31 muestras 13 parámetros, (pH, Ca<sup>2+</sup>, Na<sup>+</sup>, Mg<sup>2+</sup>, K<sup>+</sup>, Fe<sup>2+</sup>, Cl<sup>-</sup>, SO<sub>4</sub><sup>2</sup>, HCO<sub>3</sub><sup>-</sup>, NO<sub>3</sub><sup>-</sup> y NO<sub>2</sub><sup>-</sup>, SDT y ST).
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
