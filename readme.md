@@ -96,8 +96,7 @@ Teniendo en cuenta lo anterior, se eliminaron 12 muestras donde el error análit
 
 Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron las medidas de tendencia central y dispersión, para cada parámetro monitoreado, como se muestra en la tabla a continuación
 
-Tabla 1. Estadística descriptiva de las 31 muestras objeto de análisis (las concentraciones de los iones analizados, así como los SDT 
-se expresan en mg/L, el pH en sus unidades y la CE en µS/cm).
+Tabla 1. Estadística descriptiva de las 31 muestras objeto de análisis (las concentraciones de los iones analizados, así como los SDT se expresan en mg/L, el pH en sus unidades y la CE en µS/cm).
 
 
 |         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca<sup>2+</sup>|     Na<sup>+</sup>|      K<sup>+</sup>|    Fe<sup>2+</sup>|    HCO<sub>3</sub><sup>-</sup>|     Cl<sup>-</sup>|   SO<sub>4</sub><sup>2</sup>|    NO<sub>3</sub><sup>-</sup>|     NO<sub>2</sub><sup>-</sup>|      SDT|      SST|     SSV|       ST|
@@ -116,7 +115,10 @@ se expresan en mg/L, el pH en sus unidades y la CE en µS/cm).
 |NA's     |   0.0000|   0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|  0.0000|   0.0000|  0.0000|  0.0000|  0.0000|  0.0000|   0.0000|   0.0000|  0.0000|   0.0000|
 |n        |  31.0000|  31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000| 31.0000|  31.0000| 31.0000| 31.0000| 31.0000| 31.0000|  31.0000|  31.0000| 31.0000|  31.0000|
 
+De acuerdo con los resultados obtenidos en la tabla anterior, se puede concluir que conforme con los valores medios obtenidos de los parámetros analizados que la 
+composición química del agua subterránea del municipio de Puerto Wilches está dominada por el Calcio (Ca<sup>2+</sup>) con valores de concentración media de 11.7 mg/L, el Sodio (Na<sup>+</sup>) con valores de concentración media de 9.82 mg/L y y en una menor proporción por Magnesio (Mg<sup>2+</sup>) con valores de concentración media de 3.82 mg/L. En cuanto a los aniones, los Bicarbonatos (HCO<sub>3</sub><sup>-</sup>), son los que mayor presencia hacen con valores superiores a los 65 mg/L.  
 
+Así mismo, a partir de la estadística descriptiva señalada en la Tabla 1, se puede identificar que la variabilidad entre los valores máximos y mínimos de los cationes y aniones señalan una alta heterogeneidad química del agua subterránea como lo cual está relacionado con los procesos geoquímicos, que ocurren en el área de estudio.
 
 ## Bibliografía
 
