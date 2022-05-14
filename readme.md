@@ -160,7 +160,7 @@ De acuerdo con el driagrama de Piper, se observa que la fase hidrogeoquimica dom
 
 #### Diagrama de Stiff
 
-
+![Diagrama de Stiff Grupo 1](figuras/Stiff_G1.png)
 
 
 ## Bibliografía
