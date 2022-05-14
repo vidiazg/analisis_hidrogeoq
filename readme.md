@@ -162,6 +162,7 @@ De acuerdo con el driagrama de Piper, se observa que la fase hidrogeoquimica dom
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G1.png)
 
+Para las muestras del Grupo 1, se puede concluir que las aguas que dominan corresponden a la fase Clorurada Sódica, lo cual corresponde con los valores de concentración, donde el valor de Sodio y Cloruros es superior a los 20mg/L 
 
 ## Bibliografía
 
