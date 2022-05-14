@@ -140,6 +140,11 @@ El primer eje (PCA1) con una varianza del 42 %, se caracteriza por pesos positiv
 
 El segundo eje (PCA2) separa las muestras de arriba a abajo, donde en el lado superior están las muestras de agua con mayor concentración de iones y al lado inferior las muestras con menores concentraciones de iones. De acuerdo con lo anterior, las concetraciones menores corresponden a los parámetros Sodio y Hierro.
 
+### Análisis de agrupamiento jerarquico AAJ
+
+El AAJ se realizó a partir de la libreria FactoMineR del programa estadístico R, con los resultados obtenidos del análisis de APC, donde se generó una clasificación de las muestras utilizadas en grupos de acuerdo con el gráfico dendograma, que se muestra a contiuación.
+
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
