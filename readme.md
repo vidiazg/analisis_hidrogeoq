@@ -204,7 +204,8 @@ De acuerdo con el resultado obtenido, se observa que los valores más altos de S
 
 ## Conclusiones
 
-* En este estudio con base en la información com pilada y analizada se identificaron los posibles procesos geoquímicos que determinan la compo sición química del agua subterránea ubicada en el SAVMM: Recarga- infiltración de agua meteórica, Disolución - interacción del agua con silicatos y carbonatos y Alteración Antropogénica – contami nación por el desarrollo de actividades industriales que se realizan en la región
+* Se identificó el comportamiento de la hidrogeoquímica de la zona de estudio en el municipio de Puerto Wilches, mediante el uso de métodos gráficos y estadísticos, que facilitaron la interpretación de las 43 muestras recolectadas.
+* Para el área de estudio, la fase hidrogeoquímica que domian es la bicarbonatada cálcica, seguida de agua bicarbonatada sódica y en menor proporción agua clorada sódica.
 
 ## Bibliografía
 
