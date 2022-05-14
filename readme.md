@@ -60,7 +60,7 @@ En el área de estudio se distinguen sedimentos fluvio – lacustres, depósitos
 
 ## Materiales y Métodos
 
-Se analizaron 43 muestras, donde se monitorearon 15 parámetros: Conductividad Eléctrica, (CE), Temperatura, Sólidos Disueltos Totales (SDT), pH, Silice (SiO<sub>2</sub>), Calcio (Ca<sup>2+</sup>), Sodio (Na<sup>+</sup>), Potasio (K<sup>+</sup>), Magnesio (Mg<sup>2+</sup>), Hierro (Fe), Cloruros (Cl<sup>-</sup>), Sulfatos (SO<sub>4</sub><sup>2</sup>), Bicarbonatos (HCO<sub>3</sub><sup>-</sup>) y Nitritos (NO)<sub>2</sub>, Nitratos (NO<sub>3</sub><sup>-</sup>).
+Se analizaron 43 muestras, donde se monitorearon 15 parámetros: Conductividad Eléctrica, (CE), Temperatura, Sólidos Disueltos Totales (SDT), pH, Silice (SiO<sub>2</sub>), Calcio (Ca<sup>2+</sup>), Sodio (Na<sup>+</sup>), Potasio (K<sup>+</sup>), Magnesio (Mg<sup>2+</sup>), Hierro (Fe<sup>2+</sup>), Cloruros (Cl<sup>-</sup>), Sulfatos (SO<sub>4</sub><sup>2</sup>), Bicarbonatos (HCO<sub>3</sub><sup>-</sup>) y Nitritos (NO<sub>2</sub>), Nitratos (NO<sub>3</sub><sup>-</sup>).
 
 En cuanto a la calidad de los datos se calculó el valor de error analítico del balance iónico, donde la suma de la concentración en miliequivalentes de cationes debe ser igual a la suma de las concentraciones en miliequivalentes de aniones.
 
@@ -88,7 +88,7 @@ Posterior a esto se calculó el valor de error analítico del balance iónico, u
 
 Para esto se calculó la concentración de cada catión y anión en miliequivalentes.
 De acuerdo con (Malagón et al, 2021) un error analítico del balance iónico menor o igual al +/- el 10% se considera aceptable. 
-Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análitico del balance iónico era superior al 10%, por lo tanto, solamente se realizarán los análisis estadísticos para 33 muestras. La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
+Teniendo en cuenta lo anterior, se eliminaron 12 muestras donde el error análitico del balance iónico era superior al 10%, por lo tanto, solamente se realizarán los análisis estadísticos para 31 muestras. La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
 
 ![Mapa Localización Muestras de Agua Subterránea definitivas. Municipio de Puerto Wilches](figuras/ubicaciondef.png)
 
@@ -96,7 +96,7 @@ Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análit
 
 Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron las medidas de tendencia central y dispersión, para cada parámetro monitoreado, como se muestra en la tabla a continuación
 
-|         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca.2|     Na.|      K.|    Fe2.|    HCO3.|     Cl.|   SO4.2|    NO3.|    NO2.|      SDT|      SST|     SSV|       ST|
+|         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca<sup>2+</sup>|     Na<sup>+</sup>|      K<sup>+</sup>|    Fe<sup>2+</sup>|    HCO<sub>3</sub><sup>-</sup>|     Cl<sup>-</sup>|   SO<sub>4</sub><sup>2</sup>|    NO<sub>3</sub><sup>-</sup>|    NO<sub>2</sub>|      SDT|      SST|     SSV|       ST|
 |:--------|--------:|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------:|-------:|-------:|-------:|-------:|--------:|--------:|-------:|--------:|
 |Min.     |   4.1400|   3.0000| 27.5900|  4.1200|  0.5000|  0.5000|  0.6000|  0.1300|  0.0500|   0.0000|  0.1000|  0.0500|  0.0500|  0.0500|  19.0000|   2.5000|  2.5000|  27.0000|
 |1st Qu.  |  73.7000|  10.5000| 28.6600|  6.0900|  2.0000|  6.0000|  4.8500|  1.5560|  0.1000|  25.0000|  0.3000|  0.3000|  0.0750|  0.0500|  78.5000|   2.5000|  2.5000|  99.5000|
