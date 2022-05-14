@@ -158,6 +158,11 @@ El análisis de la información hidrogeoquímica del agua subterránea se realiz
 
 De acuerdo con el driagrama de Piper, se observa que la fase hidrogeoquimica dominante corresponde a la bicarbonatada cálcica, seguida de aguas bicarbonatada sódica, lo cual indica que el agua subterránea presente en el municipio de Puerto Wilches es joven, recién inflitrada, donde dominan las reacciones de precipitación - disolución.
 
+#### Diagrama de Stiff
+
+
+
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
