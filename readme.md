@@ -128,7 +128,11 @@ El uso de esta libreria garantizó que la distribución de los datos tuviera un 
 
 ![% Potcentaje de varianza en los Componentes Principales](figuras/g1.png)
 
-Inicialmente se generá la figura anterior, la cual representa el porcentaje de varianza que tiene cada componente principal, para este estudio se tomaron los % superiores al 10%, es decir hasta el componentes PCA4.
+Inicialmente se generá la figura anterior, la cual representa el porcentaje de varianza que tiene cada componente principal, para este estudio se tomaron los % superiores al 10%, es decir hasta el componentes PCA, que explican más del 55% de la varianza total del conjunto de datos.
+
+Luego se genera la siguiente gráfica donde se representa el plano factorial conformado por los componentes 1 y 2.
+
+
 
 
 ## Bibliografía
