@@ -56,7 +56,7 @@ Esta unidad se encuentra conformada por diferentes depósitos de origen fluvial.
 
 En el área de estudio se distinguen sedimentos fluvio – lacustres, depósitos de llanura de inundación y de planicie fluvio – lacustre. La característica estratigráfica principal de este tipo de depósitos es de facies de sedimentos finos de arena y lodos con altos contenidos de materia orgánica
 
-![Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021](figuras/malagon_2021.png)
+![Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021](figuras/Mapa ubicacion.jpg)
 
 ## Materiales y Métodos
 
@@ -74,6 +74,8 @@ Para la representación de isolíneas del parámetro SDT, se utilizó el método
 ### Calidad de los datos
 
 A continuación, se presenta la localización de las muestras de agua subterránea en el municipio de Puerto Wilches.
+
+![Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches](figuras/malagon_2021.png)
 
 Inicialmente, se revisó la completitud de los datos de los parámetros en las 43 muestras, donde se identificó que la información está completa en todos los parámetros, salvo en el parámetro de temperatura, donde se utilizó el valor de temperatura promedio para las muestras que no contaban con este dato.
 
