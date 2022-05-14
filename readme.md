@@ -198,7 +198,9 @@ De acuerdo con la figura anterior, se puede observar las concentraciones de anio
 
 A manera de ejemplo se busco realizar un ejercicio de interpolación del parámetro de Sólidos Disueltos Totales, utilizando el método de IDW, obteniendo el siguiente resultado
 
-![Mapa Interpolación IDW Sólidos Supendidos Totales](figuras/interpolacion.png)
+![Mapa Interpolación IDW Sólidos Disueltos Totales](figuras/interpolacion.png)
+
+De acuerdo con el resultado obtenido, se observa que los valores más altos de Sólidos Disueltos Totales se encuentran en cercanías al río Magdalena, con valores superiores a los 600 mg/L. Los valores más bajos se encuentran al sur del municipio donde limita con Barrancabermeja.
 
 ## Bibliografía
 
