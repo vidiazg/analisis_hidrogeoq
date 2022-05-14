@@ -190,6 +190,10 @@ En la parte izquierda de la figura anterior se observa que la presencia de iones
 
 En la parte derecha de la figura donde se presenta la relación de aniones, se observa que la presencia de cloruroa y bicarbonatos esta relacionado con la precipitación (grupo 2) y con la interacción agua - roca.
 
+#### Diagrama de Schoeller
+
+![Diagrama de Schoeller](figuras/Sch.png)
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
