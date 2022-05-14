@@ -132,6 +132,7 @@ Inicialmente se generá la figura anterior, la cual representa el porcentaje de 
 
 Luego se genera la siguiente gráfica donde se representa el plano factorial conformado por los componentes 1 y 2.
 
+![Trazado de los parámetros en el círculo de correlaciones respecto a los componentes principales (dimensiones) 1 y 2](figuras/g3.png)
 
 
 
