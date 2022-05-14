@@ -90,6 +90,8 @@ Para esto se calculó la concentración de cada catión y anión en miliequivale
 De acuerdo con (Malagón et al, 2021) un error analítico del balance iónico menor o igual al +/- el 10% se considera aceptable. 
 Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análitico del balance iónico era superior al 10%, por lo tanto, solamente se realizarán los análisis estadísticos para 33 muestras. La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
 
+![Mapa Localización Muestras de Agua Subterránea definitivas. Municipio de Puerto Wilches](figuras/ubicaciondef.png)
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
