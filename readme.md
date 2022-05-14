@@ -92,6 +92,10 @@ Teniendo en cuenta lo anterior, se eliminaron 10 muestras donde el error análit
 
 ![Mapa Localización Muestras de Agua Subterránea definitivas. Municipio de Puerto Wilches](figuras/ubicaciondef.png)
 
+### Estadística de los datos
+
+Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron 
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
