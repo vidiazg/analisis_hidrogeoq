@@ -146,7 +146,11 @@ El AAJ se realizó a partir de la libreria FactoMineR del programa estadístico 
 
 ![Dendograma](figuras/den.png)
 
-De acuerdo con la firgura anterior, se identifican 5 grupos de clusters con comportamientos similares, a partir de lo anterior se realizó el análisis gráfico de la química del agua mediante los diagramas de Pipper, Stiff, Gibbs, y Schoeller
+De acuerdo con la figura anterior, se identifican 5 grupos de clusters con comportamientos similares, a partir de lo anterior se realizó el análisis gráfico de la química del agua mediante los diagramas de Pipper, Stiff, Gibbs, y Schoeller
+
+### Análisis gráfico
+
+El análisis de la información hidrogeoquímica del agua subterránea se realizó mediante los diagramas de Piper, Stiff,  Gibbs, y Schoeller, por medio de la librería WQChartPy del lenguaje de programación Python.
 
 ## Bibliografía
 
