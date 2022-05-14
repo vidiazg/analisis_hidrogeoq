@@ -194,6 +194,8 @@ En la parte derecha de la figura donde se presenta la relación de aniones, se o
 
 ![Diagrama de Schoeller](figuras/Sch.png)
 
+De acuerdo con la figura anterior, se puede observar las concentraciones de aniones y cationes en los grupos de muestras, donde se puede concluir que las concentraciones más altas corresponden al cation Calcio y al anion Bicarbonato
+
 ## Bibliografía
 
 * (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
