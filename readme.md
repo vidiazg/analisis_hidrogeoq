@@ -1,8 +1,8 @@
 ---
-title: "Prueba"
-author: "Viviana Carolina Díaz Garnica"
+Título: "Análisis hidrogeoquímico-multivariado del agua subterránea en la zona de Puerto Wilches"
+Autor: "Viviana Carolina Díaz Garnica"
 Fecha: "5/13/2022"
-Materia: "Hidrogeologpía Ambiental"
+Materia: "Hidrogeología Ambiental"
 ---
 
 
