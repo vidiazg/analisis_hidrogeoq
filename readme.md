@@ -55,6 +55,7 @@ Esta unidad se encuentra conformada por diferentes depósitos de origen fluvial.
 En el área de estudio se distinguen sedimentos fluvio – lacustres, depósitos de llanura de inundación y de planicie fluvio – lacustre. La característica estratigráfica principal de este tipo de depósitos es de facies de sedimentos finos de arena y lodos con altos contenidos de materia orgánica
 
 ![Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021](figuras/malagon_2021.png)
+Figura 1 Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021
 
 ## Materiales y Métodos
 
@@ -72,7 +73,9 @@ Para la representación de isolíneas del parámetro SDT, se utilizó el método
 ### Calidad de los datos
 
 A continuación, se presenta la localización de las muestras de agua subterránea en el municipio de Puerto Wilches.
+
 ![Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches](figuras/ubicacion.png)
+Figura 2 Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches
 
 Inicialmente, se revisó la completitud de los datos de los parámetros en las 43 muestras, donde se identificó que la información está completa en todos los parámetros, salvo en el parámetro de temperatura, donde se utilizó el valor de temperatura promedio para las muestras que no contaban con este dato.
 
@@ -88,14 +91,13 @@ De acuerdo con (Malagón et al, 2021) un error analítico del balance iónico me
 Teniendo en cuenta lo anterior, se eliminaron 12 muestras donde el error análitico del balance iónico era superior al 10%, por lo tanto, solamente se realizarán los análisis estadísticos para 31 muestras. La ubicación y tipo de las muestras seleccionadas se presenta en la siguiente figura
 
 ![Mapa Localización Muestras de Agua Subterránea definitivas. Municipio de Puerto Wilches](figuras/ubicaciondef.png)
+Figura 3 Mapa Localización Muestras de Agua Subterránea definitivas. Municipio de Puerto Wilches
 
 ### Estadística de los datos
 
 Una vez realizada la selección de las muestras, por medio del cálculo del error analítico del balance iónico, se estimaron las medidas de tendencia central y dispersión, para cada parámetro monitoreado, como se muestra en la tabla a continuación
 
 Tabla 1. Estadística descriptiva de las 31 muestras objeto de análisis (las concentraciones de los iones analizados, así como los SDT se expresan en mg/L, el pH en sus unidades y la CE en µS/cm).
-
-
 |         |       CE|        P|       T|      pH|    Mg<sup>2+</sup>|    Ca<sup>2+</sup>|     Na<sup>+</sup>|      K<sup>+</sup>|    Fe<sup>2+</sup>|    HCO<sub>3</sub><sup>-</sup>|     Cl<sup>-</sup>|   SO<sub>4</sub><sup>2</sup>|    NO<sub>3</sub><sup>-</sup>|     NO<sub>2</sub><sup>-</sup>|      SDT|      SST|     SSV|       ST|
 |:--------|--------:|--------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|--------:|-------:|-------:|-------:|-------:|--------:|--------:|-------:|--------:|
 |Min.     |   4.1400|   3.0000| 27.5900|  4.1200|  0.5000|  0.5000|  0.6000|  0.1300|  0.0500|   0.0000|  0.1000|  0.0500|  0.0500|  0.0500|  19.0000|   2.5000|  2.5000|  27.0000|
@@ -124,12 +126,14 @@ El ACP se realizó utilizando la libreria Factoextra del programa estadístico R
 El uso de esta libreria garantizó que la distribución de los datos tuviera un comportamiento normal, donde para poder identificar patrones de las muestras analizadas, se utilizaron las siguientes representaciones gráficas:
 
 ![% Potcentaje de varianza en los Componentes Principales](figuras/g1.png)
+Figura 4 % Potcentaje de varianza en los Componentes Principales
 
 Inicialmente se generá la figura anterior, la cual representa el porcentaje de varianza que tiene cada componente principal, para este estudio se tomaron los % superiores al 10%, es decir hasta el componentes PCA, que explican más del 55% de la varianza total del conjunto de datos.
 
 Luego se genera la siguiente gráfica donde se representa el plano factorial conformado por los componentes 1 y 2.
 
 ![Trazado de los parámetros en el círculo de correlaciones respecto a los componentes principales (dimensiones) 1 y 2](figuras/g3.png)
+Figura 5 Trazado de los parámetros en el círculo de correlaciones respecto a los componentes principales (dimensiones) 1 y 2
 
 En la figura anterior, del plano factorial conformado por los componentes 1 y 2, se observa que todas las correlaciones son positivas pues el sentido de las flechas es igual en todos los parámetros. 
 
@@ -142,6 +146,7 @@ El segundo eje (PCA2) separa las muestras de arriba a abajo, donde en el lado su
 El AAJ se realizó a partir de la libreria FactoMineR del programa estadístico R, con los resultados obtenidos del análisis de APC, donde se generó una clasificación de las muestras utilizadas en grupos de acuerdo con el gráfico dendograma, que se muestra a contiuación.
 
 ![Dendograma](figuras/den.png)
+Figura 6 Dendograma
 
 De acuerdo con la figura anterior, se identifican 5 grupos de clusters con comportamientos similares, a partir de lo anterior se realizó el análisis gráfico de la química del agua mediante los diagramas de Pipper, Stiff, Gibbs, y Schoeller
 
@@ -152,28 +157,34 @@ El análisis de la información hidrogeoquímica del agua subterránea se realiz
 #### Diagrama de Piper
 
 ![Diagrama de Piper](figuras/piper.png)
+Figura 7 Diagrama de Piper
 
 De acuerdo con el driagrama de Piper, se observa que la fase hidrogeoquimica dominante corresponde a la bicarbonatada cálcica, seguida de aguas bicarbonatada sódica, lo cual indica que el agua subterránea presente en el municipio de Puerto Wilches es joven, recién inflitrada, donde dominan las reacciones de precipitación - disolución.
 
 #### Diagrama de Stiff
 
 ![Diagrama de Stiff Grupo 1](figuras/Stiff_G1.png)
+Figura 8 Diagrama de Stiff Grupo 1
 
 Para las muestras del Grupo 1, se puede concluir que las aguas que dominan corresponden a la fase Clorurada Sódica, lo cual corresponde con los valores de concentración, donde el valor de Sodio y Cloruros es superior a los 20mg/L. Es preciso aclarar que a este grupo solo pertenece la muestra M-33430, que se caracteriza por tener un valor de conductividad mayor al resto de las muestras y un pH de 4, inidicando que son aguas ácidas viejas.
 
 ![Diagrama de Stiff Grupo 2](figuras/Stiff_G2.png)
+Figura 9 Diagrama de Stiff Grupo 2
 
 En cuanto a las muestras del Grupo 2, se puede concluir que las aguas que dominan corresponden a la fase Bicarbonatada cálcica, lo cual corresponde con los valores de concentración, donde el valor de Calcio y Bicarbonatos es superior a los 10mg/L y 20 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes, y teniendo en cuenta que su pH es menor a 7, también indica que las muestras de este grupo corresponde a dicha fase hidrgeoquímica.
 
 ![Diagrama de Stiff Grupo 3](figuras/Stiff_G3.png)
+Figura 10 Diagrama de Stiff Grupo 3
 
 Al igual que las muestras del Grupo 2, este grupo de muestras pertenecen a la fase Bicarbonatada cálcica, en este caso los valores de concentración del Calcio y de los Bicarbonatos es superior a los 60mg/L y 200 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
 ![Diagrama de Stiff Grupo 4](figuras/Stiff_G4.png)
+Figura 11 Diagrama de Stiff Grupo 4
 
 En el grupo 4 se encuentran aguas, donde la fase que domina es la Bicarbonatada sódica correpondiente a aguas maduras, donde ocurre intercambio iónico, donde las aguas subterráneas se encuentran a gran profundidad.
 
 ![Diagrama de Stiff Grupo 5](figuras/Stiff_G5.png)
+Figura 12 Diagrama de Stiff Grupo 5
 
 Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatada cálcica, donde el valor de Calcio y Bicarbonatos es superior a los 12mg/L y 100 mg/L respectivamente. Teniendo en cuenta lo anterior, se puede concluir que son aguas jovenes.
 
@@ -182,6 +193,7 @@ Finalmente las muestras del Grupo 5, corresponde a aguas en la fase Bicarbonatad
 Este diagrama grafica la concentración de los sólidos disueltos y la relación de Na/(Na+K), para cationes y para aniones Cl/(Cl+HCO3) En este diagrama es posible identificar tres procesos ocurrentes en la dinámica del agua subterránea mediante su química, siendo: el proceso de precipitación, Interacción agua-roca, y Evaporación – cristalización. (Bustamante, 2017)
 
 ![Diagrama de Gibbs](figuras/Gibbs.png)
+Figura 13 Diagrama de Gibbs
 
 En la parte izquierda de la figura anterior se observa que la presencia de iones calcio y sodio para la zona de estudio proviene principalmente del proceso de interacción agua – roca, donde hacen mayor presencia las muestras del grupo 2 y del grupo 3 donde su concentración en STD se encuentra entre 10 y 290 mg/L. 
 
@@ -190,6 +202,7 @@ En la parte derecha de la figura donde se presenta la relación de aniones, se o
 #### Diagrama de Schoeller
 
 ![Diagrama de Schoeller](figuras/Sch.png)
+Figura 14 Diagrama de Schoeller
 
 De acuerdo con la figura anterior, se puede observar las concentraciones de aniones y cationes en los grupos de muestras, donde se puede concluir que las concentraciones más altas corresponden al cation Calcio y al anion Bicarbonato
 
@@ -198,6 +211,7 @@ De acuerdo con la figura anterior, se puede observar las concentraciones de anio
 A manera de ejemplo se busco realizar un ejercicio de interpolación del parámetro de Sólidos Disueltos Totales, utilizando el método de IDW, obteniendo el siguiente resultado
 
 ![Mapa Interpolación IDW Sólidos Disueltos Totales](figuras/interpolacion.png)
+Figura 15 Mapa Interpolación IDW Sólidos Disueltos Totales
 
 De acuerdo con el resultado obtenido, se observa que los valores más altos de Sólidos Disueltos Totales se encuentran en cercanías al río Magdalena, con valores superiores a los 600 mg/L. Los valores más bajos se encuentran al sur del municipio donde limita con Barrancabermeja.
 
