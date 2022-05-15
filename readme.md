@@ -205,7 +205,11 @@ De acuerdo con el resultado obtenido, se observa que los valores más altos de S
 ## Conclusiones
 
 * Se identificó el comportamiento de la hidrogeoquímica de la zona de estudio en el municipio de Puerto Wilches, mediante el uso de métodos gráficos y estadísticos, que facilitaron la interpretación de las 43 muestras recolectadas.
+* El cálculo del error análito del balance iónico permitió determinar cuales son las muestras para realizar los análisis estadísticos y gráficos de la química presente en el agua subterránea de la zona de estudio.
 * Para el área de estudio, la fase hidrogeoquímica que domian es la bicarbonatada cálcica, seguida de agua bicarbonatada sódica y en menor proporción agua clorada sódica.
+* El análisis de componentes principales permitió determinar 4 dimensones que explican el 55 % de la varianza total del conjunto de datos, donde se pudo identificar que en el componente principal las concetraciones menores corresponden a los parámetros Nitratos y Cloruros. lo cual podría señalar que son aguas jovenes.
+* El AAJ permitió clasificar las 31 muestras en cinco grupos de acuerdo con su similitud, donde el grupo 1 corresponde al agua con mayor tiempo de residencia y tránsito a lo largo del área de estudio, los grupos 2 y 3 el agua está poco ionizada y corresponde con el bicarbonatada cálcica. El grupo 4 representa el agua de tipo bicarbonatada sódica y corresponde a aguas profundas.
+* De acuerdo con el diagrama de Gibbs la presencia de iones calcio y sodio para la zona de estudio proviene principalmente del proceso de interacción agua – roca.
 
 ## Bibliografía
 
