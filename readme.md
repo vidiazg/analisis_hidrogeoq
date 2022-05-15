@@ -213,5 +213,10 @@ De acuerdo con el resultado obtenido, se observa que los valores más altos de S
 
 ## Bibliografía
 
-* (18) (PDF) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Available from: https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
+* BUSTAMANTE Elizabeth (2017). Identificación de procesos hidrogeoquímicos aplicando modelación inversa en el acuífero Soconusco, Chiapas. INSTITUTO POTOSINO DE INVESTIGACIÓN
+CIENTÍFICA Y TECNOLÓGICA, A.C
+* MALAGÓN Juan, PIÑA Adriana, ARGÛELLO Sebastián y DONADO Leondardo (2021). Análisis hidrogeoquímico-multivariado del agua subterránea del sistema acuífero del Valle Medio del Magdalena, Colombia: Estudio a escala regional. Boletín de la Sociedad Geológica Mexicana
+* MIRANDA Ingry y PEÑUELA Gustavo. (2016) Revisión de los métodos estadísticos multivariados usados en el análisis de calidad de aguas. Revista Mutis. https://www.researchgate.net/publication/305670545_Revision_de_los_metodos_estadisticos_multivariados_usados_en_el_analisis_de_calidad_de_aguas [accessed May 13 2022].
+* MINISTERIO DE MINAS Y ENERGÍA. SERVICIO GEOLÓGICO COLOMBIANO (2012). Cartografía Geológica de la Plancha 108 – “Puerto Wilches” Escala 1:100.000. UPTC - INGEOMINAS
+CONTRATO N º041/2010
 
