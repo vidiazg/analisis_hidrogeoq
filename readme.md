@@ -72,8 +72,7 @@ Para la representación de isolíneas del parámetro SDT, se utilizó el método
 ### Calidad de los datos
 
 A continuación, se presenta la localización de las muestras de agua subterránea en el municipio de Puerto Wilches.
-![Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches](figuras/ubicacion.png "MarineGEO logo")
-![Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches](figuras/ubicacion.png)
+![Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches](figuras/ubicacion.png "Mapa Localización Muestras de Agua Subterránea. Municipio de Puerto Wilches")
 
 Inicialmente, se revisó la completitud de los datos de los parámetros en las 43 muestras, donde se identificó que la información está completa en todos los parámetros, salvo en el parámetro de temperatura, donde se utilizó el valor de temperatura promedio para las muestras que no contaban con este dato.
 
