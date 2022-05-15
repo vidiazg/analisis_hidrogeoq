@@ -55,6 +55,7 @@ Esta unidad se encuentra conformada por diferentes depósitos de origen fluvial.
 En el área de estudio se distinguen sedimentos fluvio – lacustres, depósitos de llanura de inundación y de planicie fluvio – lacustre. La característica estratigráfica principal de este tipo de depósitos es de facies de sedimentos finos de arena y lodos con altos contenidos de materia orgánica
 
 ![Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021](figuras/malagon_2021.png)
+
 Figura 1 Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena. Fuente: Malagón et al., 2021
 
 ## Materiales y Métodos
