@@ -67,7 +67,7 @@ En cuanto a la calidad de los datos se calculó el valor de error analítico del
 Respecto, al análisis de los datos, este se realizó utilizando estadística descriptiva y análisis multivariado: Análisis de Componentes Principales y Análisis de agrupamiento jerarquico (ACP y AAJ), usando las librerías “factoextra” y “FactoMineR” del paquete estadístico R. 
 
 Finalmente, para la generación de los diagramas de Pipper, Stiff, Gibbs, y Schoeller se utilizó la librería WQChartPy del lenguaje de programación Python.
-Para la representación de isolíneas del parámetro SDT, se utilizó el método de interpolación Kriging.
+Para la representación de isolíneas del parámetro SDT, se utilizó el método de interpolación IDW.
 
 ## Resultados
 
